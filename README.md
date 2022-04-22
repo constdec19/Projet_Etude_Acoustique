@@ -2,6 +2,8 @@
 
 ## Dossier Code
 
+### Dossier CSV to WAV
+Code pour passer un fichier au format CSV au format WAV
 ### Dossier Centroïde Spectral
 Code pour obtenir les centroïdes spectrale sur les 3 axes (x,y,z) à partir d'un fichier csv
 ### Dossier Découpage
@@ -21,3 +23,5 @@ Code pour obtenir les spectrogrammes sur les 3 axes (x,y,z) à partir d'un fichi
 Fichier Excel des études statistiques (toutes les valeurs, moyennes, anova) (pour l'accélérométrie et les enregistrements sonores)
 ### Dossier Découpage,descripteurs
 Regroupe les résultats des codes précendants pour les Raquettes 1,2,3,4 et les enregistrements lift et plat
+### Dossier Classification
+Réseau de neurone pour une classification des raquettes R1,R2,R3,R4 avec le fichier CSV
