@@ -12,6 +12,8 @@ Code pour découper un fichier csv en fonction du temps et du nom du fichier
 Code pour calculer centroïde spectral, spectrogramme, niveau sonore sur des fichier csv produit par un fichier wav, fichiers csv inclus
 ### Dossier Niveau Vibratoire
 Code pour obtenir le niveau vibratoire sur les 3 axes (x,y,z) à partir d'un fichier csv
+### Dossier Normalisation 
+Code pour normaliser les données d’accéléromètre afin de les convertir en fichier wav 
 ### Dossier Récupérer toutes les valeurs
 Codes pour récupérer les valeurs soit du centroïde spectral, soit les intensités maximales d'un spectrogramme, soit le maximum du niveau vibratoire, soit la moyenne du niveau vibratoire dans un fichier csv (toutes les valeurs de tous les fichiers regroupés)
 ### Dossier Spectrogramme
